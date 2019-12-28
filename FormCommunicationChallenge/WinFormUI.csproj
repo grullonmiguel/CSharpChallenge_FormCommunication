@@ -88,6 +88,7 @@
     <EmbeddedResource Include="Views\SubDashboard.resx">
       <DependentUpon>SubDashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Form Communication Challenge.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
